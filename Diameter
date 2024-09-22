@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+    int r;
+    printf("Enter the radius of the circle: ");
+    scanf("%d" ,&r);
+   int Diameter = 2*r;
+    printf("Diameter = %d",Diameter);
+    
+}
