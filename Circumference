@@ -6,6 +6,6 @@ void main()
     printf("Enter the radius of the circle: ");
     scanf("%d" ,&r);
     float circumference = 2*PI*r;
-    printf("Area = %.2f",circumference);
+    printf("Circumference = %.2f",circumference);
     
 }
